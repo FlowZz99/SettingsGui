@@ -1,0 +1,8 @@
+name: SettingsGui
+version: 1.0.0
+author: _FlowZz_
+main: it.flowzz.settingsgui.SettingsGuiPlugin
+commands:
+  Settings:
+    description: Open settings menu.
+    aliases: [setting]

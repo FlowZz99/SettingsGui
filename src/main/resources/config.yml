@@ -1,0 +1,23 @@
+GUI:
+  size: 27
+  name: "&cSetting's gui"
+  filler:
+    material: STAINED_GLASS_PANE
+    subid: 7
+  Items:
+    1:
+      material: GOLD_INGOT
+      subid: 0
+      slot: 5
+      name: "&7Toggle &eAutosell"
+      lore:
+        - "&7Toggle on/off autosell feature"
+      command: "autosell"
+    2:
+      material: DIAMOND
+      subid: 0
+      slot: 7
+      name: "&7Toggle &bAutoprestige"
+      lore:
+        - "&7Toggle on/off autoprestige feature"
+      command: "autoprestige"
